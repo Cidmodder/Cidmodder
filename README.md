@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on learning projects and websites.
 - 📫 How to reach me message me on discord @cidmodder
 - Porfolio page: https://main--whimsical-dieffenbachia-102633.netlify.app/
+- Here's a link to the MERP project I worked on: https://www.nexusmods.com/oblivion/mods/29214?tab=images&BH=4
 
 I've been programming as a hobbist for 10 years now, starting with elder scrolls and fallout mods, to eventually collaborating on some Unity apps before becoming a high school math and science teacher.
 I've been teaching for over 10 years and held a variety of leadership roles but never stopped programming, mostly using Unity as my platform of choice and Visual Studio Code as my IDE.
