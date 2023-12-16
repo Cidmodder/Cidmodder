@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cidmodder
 - 👀 I’m interested in programming websites and games through HTML, CSS, Javascript and C#
 - 🌱 I’m currently learning Full Stack Development on Codecademy
-- 💞️ I’m looking to collaborate on learning projects and websites.
+- 💞️ I’m looking to collaborate on learning game projects and websites.
 - 📫 How to reach me message me on discord @cidmodder
 - Porfolio page: https://main--whimsical-dieffenbachia-102633.netlify.app/
 - Here's a link to the MERP project I worked on: https://www.nexusmods.com/oblivion/mods/29214?tab=images&BH=4
