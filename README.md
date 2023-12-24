@@ -8,7 +8,7 @@
 
 I've been programming as a hobbist for 10 years now, starting with elder scrolls and fallout mods, to eventually collaborating on some Unity apps before becoming a high school math and science teacher.
 I've been teaching for over 10 years and held a variety of leadership roles but never stopped programming, mostly using Unity as my platform of choice and Visual Studio Code as my IDE.
-Now I'm looking to make the switch to IT through codecademy's full stack developer course.
+Now I'm looking to make the switch to production where I can use my leadership skills in game development.
 
 <!---
 Cidmodder/Cidmodder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
