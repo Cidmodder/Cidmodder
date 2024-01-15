@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on learning game projects and websites.
 - 📫 How to reach me message me on discord @cidmodder
 - Porfolio page: https://main--whimsical-dieffenbachia-102633.netlify.app/
+- Link to New Year, New Skills Game Jam submission: https://itch.io/jam/new-year-new-skills-game-jam/rate/2469485
 - Here's a link to the MERP project I worked on: https://www.nexusmods.com/oblivion/mods/29214?tab=images&BH=4
 
 I've been programming as a hobbist for 10 years now, starting with elder scrolls and fallout mods, to eventually collaborating on some Unity apps before becoming a high school math and science teacher.
