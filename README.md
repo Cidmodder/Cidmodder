@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cidmodder
 - 👀 I’m interested in programming abd design using HTML, CSS, Javascript and C#.
-- 🌱 I’m deveoloping more UX desing skills.
+- 🌱 I’m developing more UX and instructional design skills.
 - 💞️ I’m looking to collaborate on learning game projects and websites.
 - 📫 How to reach me message me on discord @cidmodder
 - Porfolio page: https://mouse-turtle-84ef.squarespace.com/config/
